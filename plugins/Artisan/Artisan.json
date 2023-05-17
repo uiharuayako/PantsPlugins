@@ -1,0 +1,21 @@
+{
+  "Author": "Taurenkey (Puni.sh)",
+  "Name": "Artisan",
+  "InternalName": "Artisan",
+  "AssemblyVersion": "1.7.4.19",
+  "Description": "The all-in-one crafting plugin.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/PunishXIV/Artisan",
+  "Tags": [
+    "crafting"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://love.puni.sh/resources/artisan.png",
+  "Punchline": "A 'simple' crafting plugin.",
+  "Changelog": "- Please visit the Discord for a full list of updates.",
+  "AcceptsFeedback": true
+}
