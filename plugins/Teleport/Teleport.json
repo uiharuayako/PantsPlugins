@@ -1,8 +1,8 @@
 {
   "Author": "Uiharu",
-  "Name": "Teleport",
+  "Name": "XTeleport",
   "InternalName": "Teleport",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "0.0.0.6",
   "Description": "/tpmain 打开主界面",
   "ApplicableVersion": "any",
   "Tags": [
@@ -12,7 +12,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/main/icons/tp.jpg",
+  "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
   "Punchline": "传送",
   "AcceptsFeedback": true
 }
