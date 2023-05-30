@@ -2,7 +2,7 @@
   "Author": "Uiharu",
   "Name": "XTeleport",
   "InternalName": "Teleport",
-  "AssemblyVersion": "0.0.0.6",
+  "AssemblyVersion": "0.0.0.7",
   "Description": "/tpmain 打开主界面",
   "ApplicableVersion": "any",
   "Tags": [
