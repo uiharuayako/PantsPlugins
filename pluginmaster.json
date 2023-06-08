@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686228786"
+        "LastUpdate": "1686232605"
     },
     {
         "Author": "\u043a\u0430\u0439\u0442 \u043c\u0430\u0448\u0438\u043d\u0430 (Puni.sh)",
@@ -41,7 +41,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686228786"
+        "LastUpdate": "1686232605"
     },
     {
         "Author": "Taurenkey (Puni.sh)",
@@ -65,7 +65,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686228786"
+        "LastUpdate": "1686232605"
     },
     {
         "Author": "Uiharu",
@@ -73,7 +73,7 @@
         "Punchline": "\u4f20\u9001",
         "Description": "/tpmain \u6253\u5f00\u4e3b\u754c\u9762",
         "InternalName": "Teleport",
-        "AssemblyVersion": "0.0.0.9",
+        "AssemblyVersion": "0.0.0.10",
         "ApplicableVersion": "any",
         "Tags": [
             "cheat"
@@ -87,6 +87,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Teleport/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Teleport/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686228786"
+        "LastUpdate": "1686232605"
     }
 ]
