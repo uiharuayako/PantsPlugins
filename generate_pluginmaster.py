@@ -57,7 +57,11 @@ def extract_manifests():
     for dirpath, dirnames, filenames in os.walk('./plugins'):
         if len(filenames) == 0 or 'latest.zip' not in filenames:
             continue
-        plugin_name = dirpath.split('/')[-1]
+        # 查找 JSON 文件并取文件名作为 plugin_name
+        for file in filenames:
+            if file.endswith('.json'):
+                plugin_name = file[:-5]  # 去掉后缀 ".json"
+                break
         latest_zip = f'{dirpath}/latest.zip'
         with ZipFile(latest_zip) as z:
             manifest = json.loads(z.read(f'{plugin_name}.json').decode('utf-8'))
@@ -68,7 +72,7 @@ def extract_manifests():
 def add_extra_fields(manifests):
     for manifest in manifests:
         # generate the download link from the internal assembly name
-        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(branch=BRANCH, plugin_name=manifest["InternalName"])
+        manifest['DownloadLinkInstall'] = DOWNLOAD_URL.format(branch=BRANCH, plugin_name=manifest["Name"])
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:
@@ -93,7 +97,7 @@ def last_updated():
         master = json.load(f)
 
     for plugin in master:
-        latest = f'plugins/{plugin["InternalName"]}/latest.zip'
+        latest = f'plugins/{plugin["Name"]}/latest.zip'
         modified = int(getmtime(latest))
 
         if 'LastUpdate' not in plugin or modified != int(plugin['LastUpdate']):
