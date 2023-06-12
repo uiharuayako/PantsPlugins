@@ -21,7 +21,32 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686316008"
+        "LastUpdate": "1686480552"
+    },
+    {
+        "Author": "Det",
+        "Name": "Auto Hook",
+        "Punchline": "Makes fishing less (or more) boring",
+        "Description": "It hooks the fish for you, can you believe it?",
+        "Changelog": "Click the new Changelog button to see whats new",
+        "InternalName": "AutoHook",
+        "AssemblyVersion": "2.4.4.1",
+        "RepoUrl": "https://github.com/InitialDet/AutoHook",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Gathering",
+            "Fishing"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1686480552"
     },
     {
         "Author": "\u043a\u0430\u0439\u0442 \u043c\u0430\u0448\u0438\u043d\u0430 (Puni.sh)",
@@ -41,7 +66,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686316008"
+        "LastUpdate": "1686480552"
     },
     {
         "Author": "Uiharu",
@@ -63,7 +88,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportTest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportTest/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686316008"
+        "LastUpdate": "1686480552"
     },
     {
         "Author": "",
@@ -87,7 +112,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686316008"
+        "LastUpdate": "1686480552"
     },
     {
         "Author": "Uiharu",
@@ -109,6 +134,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleport/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleport/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1686316008"
+        "LastUpdate": "1686480552"
     }
 ]
