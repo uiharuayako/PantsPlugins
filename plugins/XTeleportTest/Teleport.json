@@ -1,8 +1,8 @@
 {
-  "Author": "Uiharu",
+  "Author": "Uiharu,NiGuangOwO",
   "Name": "XTeleportTest",
   "InternalName": "Teleport",
-  "AssemblyVersion": "0.0.2.2",
+  "AssemblyVersion": "0.0.2.3",
   "Description": "/tpmain 打开主界面",
   "ApplicableVersion": "any",
   "Tags": [
@@ -11,6 +11,7 @@
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
   "Punchline": "传送",
