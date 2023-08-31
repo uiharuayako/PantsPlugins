@@ -1,8 +1,8 @@
 {
   "Author": "Uiharu,NiGuangOwO",
-  "Name": "XTeleportTest",
+  "Name": "XTeleportOnline",
   "InternalName": "Teleport",
-  "AssemblyVersion": "0.0.2.4",
+  "AssemblyVersion": "0.0.2.5",
   "Description": "/tpmain 打开主界面",
   "ApplicableVersion": "any",
   "Tags": [
