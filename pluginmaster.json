@@ -17,29 +17,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1692202085"
-    },
-    {
-        "Author": "Uiharu,NiGuangOwO",
-        "Name": "XTeleportTest",
-        "Punchline": "\u4f20\u9001",
-        "Description": "/tpmain \u6253\u5f00\u4e3b\u754c\u9762",
-        "InternalName": "Teleport",
-        "AssemblyVersion": "0.0.2.4",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "cheat"
-        ],
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportTest/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportTest/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportTest/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1692202085"
+        "LastUpdate": "1693488006"
     },
     {
         "Author": "Taurenkey (Puni.sh)",
@@ -63,7 +41,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1692202085"
+        "LastUpdate": "1693488006"
     },
     {
         "Author": "",
@@ -87,7 +65,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1692202085"
+        "LastUpdate": "1693488006"
     },
     {
         "Author": "Det",
@@ -112,15 +90,15 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1692202085"
+        "LastUpdate": "1693488006"
     },
     {
-        "Author": "Uiharu",
-        "Name": "XTeleport",
+        "Author": "Uiharu,NiGuangOwO",
+        "Name": "XTeleportOnline",
         "Punchline": "\u4f20\u9001",
         "Description": "/tpmain \u6253\u5f00\u4e3b\u754c\u9762",
         "InternalName": "Teleport",
-        "AssemblyVersion": "0.0.2.1",
+        "AssemblyVersion": "0.0.2.5",
         "ApplicableVersion": "any",
         "Tags": [
             "cheat"
@@ -128,12 +106,12 @@
         "DalamudApiLevel": 8,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleport/latest.zip",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleport/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleport/latest.zip",
+        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1692202085"
+        "LastUpdate": "1693488006"
     }
 ]
