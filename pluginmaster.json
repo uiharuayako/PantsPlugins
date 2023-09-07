@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1693491910"
+        "LastUpdate": "1694097215"
     },
     {
         "Author": "Taurenkey (Puni.sh)",
@@ -41,7 +41,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1693491910"
+        "LastUpdate": "1694097215"
     },
     {
         "Author": "",
@@ -65,7 +65,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1693491910"
+        "LastUpdate": "1694097215"
     },
     {
         "Author": "Det",
@@ -90,7 +90,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1693491910"
+        "LastUpdate": "1694097215"
     },
     {
         "Author": "Uiharu,NiGuangOwO",
@@ -98,7 +98,7 @@
         "Punchline": "\u4f20\u9001",
         "Description": "/tpmain \u6253\u5f00\u4e3b\u754c\u9762",
         "InternalName": "Teleport",
-        "AssemblyVersion": "0.0.2.6",
+        "AssemblyVersion": "0.0.2.7",
         "ApplicableVersion": "any",
         "Tags": [
             "cheat"
@@ -112,6 +112,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1693491910"
+        "LastUpdate": "1694097215"
     }
 ]
