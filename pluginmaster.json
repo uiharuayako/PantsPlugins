@@ -1,27 +1,25 @@
 [
     {
-        "Author": "Taurenkey (Puni.sh)",
-        "Name": "Artisan",
-        "Punchline": "A 'simple' crafting plugin.",
-        "Description": "The all-in-one crafting plugin.",
-        "Changelog": "- Please visit the Discord for a full list of updates.",
-        "InternalName": "Artisan",
-        "AssemblyVersion": "1.7.4.19",
-        "RepoUrl": "https://github.com/PunishXIV/Artisan",
+        "Author": "Uiharu,NiGuangOwO",
+        "Name": "XTeleportOnline",
+        "Punchline": "\u4f20\u9001",
+        "Description": "/tpmain \u6253\u5f00\u4e3b\u754c\u9762",
+        "InternalName": "Teleport",
+        "AssemblyVersion": "0.0.3.5",
         "ApplicableVersion": "any",
         "Tags": [
-            "crafting"
+            "cheat"
         ],
         "DalamudApiLevel": 8,
         "LoadPriority": 0,
-        "IconUrl": "https://love.puni.sh/resources/artisan.png",
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
+        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697046207"
+        "LastUpdate": "1697966386"
     },
     {
         "Author": "\u043a\u0430\u0439\u0442 \u043c\u0430\u0448\u0438\u043d\u0430 (Puni.sh)",
@@ -41,7 +39,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697046207"
+        "LastUpdate": "1697966386"
     },
     {
         "Author": "",
@@ -65,29 +63,31 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697046207"
+        "LastUpdate": "1697966386"
     },
     {
-        "Author": "Uiharu,NiGuangOwO",
-        "Name": "XTeleportOnline",
-        "Punchline": "\u4f20\u9001",
-        "Description": "/tpmain \u6253\u5f00\u4e3b\u754c\u9762",
-        "InternalName": "Teleport",
-        "AssemblyVersion": "0.0.3.3",
+        "Author": "Taurenkey (Puni.sh)",
+        "Name": "Artisan",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin.",
+        "Changelog": "- Please visit the Discord for a full list of updates.",
+        "InternalName": "Artisan",
+        "AssemblyVersion": "1.7.4.19",
+        "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "ApplicableVersion": "any",
         "Tags": [
-            "cheat"
+            "crafting"
         ],
         "DalamudApiLevel": 8,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
+        "IconUrl": "https://love.puni.sh/resources/artisan.png",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
+        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697046207"
+        "LastUpdate": "1697966386"
     },
     {
         "Author": "Det",
@@ -112,6 +112,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1697046207"
+        "LastUpdate": "1697966386"
     }
 ]
