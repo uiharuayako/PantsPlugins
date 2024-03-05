@@ -1,29 +1,5 @@
 [
     {
-        "Author": "",
-        "Name": "LiFu",
-        "Punchline": "LiFu",
-        "Description": "LiFu",
-        "Changelog": "Updated for API4",
-        "InternalName": "LiFu",
-        "AssemblyVersion": "1.1.2.1",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1705586430"
-    },
-    {
         "Author": "Taurenkey (Puni.sh)",
         "Name": "Artisan",
         "Punchline": "A 'simple' crafting plugin.",
@@ -45,7 +21,73 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1705586430"
+        "LastUpdate": "1709658668"
+    },
+    {
+        "Author": "\u043a\u0430\u0439\u0442 \u043c\u0430\u0448\u0438\u043d\u0430 (Puni.sh)",
+        "Name": "AutoRetainer",
+        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
+        "InternalName": "AutoRetainer",
+        "AssemblyVersion": "3.1.5.7",
+        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1709658668"
+    },
+    {
+        "Author": "",
+        "Name": "LiFu",
+        "Punchline": "LiFu",
+        "Description": "LiFu",
+        "Changelog": "Updated for API4",
+        "InternalName": "LiFu",
+        "AssemblyVersion": "1.1.2.1",
+        "RepoUrl": "",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "",
+        "ImageUrls": [
+            ""
+        ],
+        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1709658668"
+    },
+    {
+        "Author": "Uiharu,NiGuangOwO",
+        "Name": "XTeleportOnline",
+        "Punchline": "\u4f20\u9001",
+        "Description": "/tpmain \u6253\u5f00\u4e3b\u754c\u9762",
+        "InternalName": "Teleport",
+        "AssemblyVersion": "0.0.3.9",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "cheat"
+        ],
+        "DalamudApiLevel": 9,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1709658668"
     },
     {
         "Author": "Det",
@@ -70,48 +112,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1705586430"
-    },
-    {
-        "Author": "Uiharu,NiGuangOwO",
-        "Name": "XTeleportOnline",
-        "Punchline": "\u4f20\u9001",
-        "Description": "/tpmain \u6253\u5f00\u4e3b\u754c\u9762",
-        "InternalName": "Teleport",
-        "AssemblyVersion": "0.0.3.7",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "cheat"
-        ],
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/PantsPlugins/master/icons/tp.jpg",
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1705586430"
-    },
-    {
-        "Author": "\u043a\u0430\u0439\u0442 \u043c\u0430\u0448\u0438\u043d\u0430 (Puni.sh)",
-        "Name": "AutoRetainer",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "InternalName": "AutoRetainer",
-        "AssemblyVersion": "3.1.5.7",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1705586430"
+        "LastUpdate": "1709658668"
     }
 ]
