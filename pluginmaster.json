@@ -4,15 +4,15 @@
         "Name": "Artisan",
         "Punchline": "A 'simple' crafting plugin.",
         "Description": "The all-in-one crafting plugin.",
-        "Changelog": "- Please visit the Discord for a full list of updates.",
+        "Changelog": "",
         "InternalName": "Artisan",
-        "AssemblyVersion": "1.7.4.19",
+        "AssemblyVersion": "3.0.4.8",
         "RepoUrl": "https://github.com/PunishXIV/Artisan",
         "ApplicableVersion": "any",
         "Tags": [
             "crafting"
         ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 9,
         "LoadPriority": 0,
         "IconUrl": "https://love.puni.sh/resources/artisan.png",
         "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
@@ -21,51 +21,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709731850"
-    },
-    {
-        "Author": "\u043a\u0430\u0439\u0442 \u043c\u0430\u0448\u0438\u043d\u0430 (Puni.sh)",
-        "Name": "AutoRetainer",
-        "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
-        "InternalName": "AutoRetainer",
-        "AssemblyVersion": "3.1.5.7",
-        "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "IconUrl": "https://love.puni.sh/resources/auto-retainer.png",
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/AutoRetainer/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1709731850"
-    },
-    {
-        "Author": "",
-        "Name": "LiFu",
-        "Punchline": "LiFu",
-        "Description": "LiFu",
-        "Changelog": "Updated for API4",
-        "InternalName": "LiFu",
-        "AssemblyVersion": "1.1.2.1",
-        "RepoUrl": "",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "IconUrl": "",
-        "ImageUrls": [
-            ""
-        ],
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/LiFu/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1709731850"
+        "LastUpdate": "1711554506"
     },
     {
         "Author": "Uiharu,NiGuangOwO",
@@ -87,31 +43,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1709731850"
-    },
-    {
-        "Author": "Det",
-        "Name": "Auto Hook",
-        "Punchline": "Makes fishing less (or more) boring",
-        "Description": "It hooks the fish for you, can you believe it?",
-        "Changelog": "Click the new Changelog button to see whats new",
-        "InternalName": "AutoHook",
-        "AssemblyVersion": "2.4.4.1",
-        "RepoUrl": "https://github.com/InitialDet/AutoHook",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Gathering",
-            "Fishing"
-        ],
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/InitialDet/AutoHook/main/AutoHook/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Auto Hook/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1709731850"
+        "LastUpdate": "1711554506"
     }
 ]
