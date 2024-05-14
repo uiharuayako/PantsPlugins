@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1715705718"
+        "LastUpdate": "1715708239"
     },
     {
         "Author": "Uiharu,NiGuangOwO",
@@ -29,7 +29,7 @@
         "Punchline": "\u4f20\u9001",
         "Description": "/tpmain \u6253\u5f00\u4e3b\u754c\u9762",
         "InternalName": "Teleport",
-        "AssemblyVersion": "0.0.4.0",
+        "AssemblyVersion": "0.0.4.1",
         "ApplicableVersion": "any",
         "Tags": [
             "cheat"
@@ -43,6 +43,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1715705718"
+        "LastUpdate": "1715708239"
     }
 ]
