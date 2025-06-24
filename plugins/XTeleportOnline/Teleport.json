@@ -2,13 +2,13 @@
   "Author": "Uiharu,NiGuangOwO",
   "Name": "XTeleportOnline",
   "InternalName": "Teleport",
-  "AssemblyVersion": "0.0.4.8",
+  "AssemblyVersion": "0.0.5.0",
   "Description": "/tpmain 打开主界面",
   "ApplicableVersion": "any",
   "Tags": [
     "cheat"
   ],
-  "DalamudApiLevel": 11,
+  "DalamudApiLevel": 12,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
