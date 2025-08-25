@@ -5,7 +5,7 @@
         "Punchline": "\u4f20\u9001",
         "Description": "/tpmain \u6253\u5f00\u4e3b\u754c\u9762",
         "InternalName": "Teleport",
-        "AssemblyVersion": "0.0.5.1",
+        "AssemblyVersion": "0.0.6.0",
         "ApplicableVersion": "any",
         "Tags": [
             "cheat"
@@ -19,6 +19,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/PantsPlugins/raw/master/plugins/XTeleportOnline/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1750779956"
+        "LastUpdate": "1756138741"
     }
 ]
